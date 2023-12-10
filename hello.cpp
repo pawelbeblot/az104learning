@@ -6,7 +6,6 @@ int main()
   const int windowWidth{1000};
   const int windowHeight{1000};
   InitWindow(windowWidth, windowHeight, "Window");
-/*jjj*/
   const int width(100);
   const int height(100);
 
